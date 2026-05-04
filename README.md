@@ -141,7 +141,7 @@ docker run -d -p 8080:8080 banking-app
 
 ### 📊 Prometheus Dashboard
 
-![Prometheus](screenshots/prometheus.png)
+![Prometheus](screenshots/Prometheus.png)
 
 ---
 
